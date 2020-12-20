@@ -170,6 +170,5 @@ console.log(name < 'bob');*/
 //let result= String(50);
 //let result= Boolean(100);
 //let result= Boolean(0);
-let result= Boolean('0');
-
-console.log(result, typeof result);
+//let result= Boolean('0');
+//console.log(result, typeof result);
