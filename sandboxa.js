@@ -133,7 +133,7 @@ else if (password.length >= 8 ){
      //variable and block scope
      //shows difference between var and let/const
     
-     let age= 30;
+     /*let age= 30;
      let name= 'bob&june';
      //const age= 30;
      //var age= 30;
@@ -158,7 +158,7 @@ else if (password.length >= 8 ){
          console.log('inside 2nd code block: ', age, name1, name2, test1, test2); // , test2
      }
      }
-        console.log('outside both code blocks', age, name); //, test1, test2
+        console.log('outside both code blocks', age, name); //, test1, test2*/
 
 
 
