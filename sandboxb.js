@@ -118,7 +118,7 @@ myFunc (value => {
     console.log(value);
 });*/
     //callbacks & for each contd
-let people= ['Bob', 'June', 'Kelly', 'Shona**2', 'Finn', 'Freya'];
+//let people= ['Bob', 'June', 'Kelly', 'Shona**2', 'Finn', 'Freya'];
 
 //people.forEach(function(person){    //change to arrow function
 // people.forEach ((person, index) => {    //add index to params
@@ -131,11 +131,18 @@ let people= ['Bob', 'June', 'Kelly', 'Shona**2', 'Finn', 'Freya'];
 people.forEach(logPerson);*/
 
 //get a reference to the 'ul' in the DOM        from 39 mins - Do AGain!
-const ul = document.querySelector('people');
+const ul = document.querySelector('.people');
 const people= ['Bob', 'June', 'Kelly', 'Shona**2', 'Finn', 'Freya'];
-people.forEach(function(person) {           //create callback method
+let html= "";
+people.forEach(function(person) {         //create callback method
+//people.forEach((person, index) => {    //create arrow function from regular callback - more used way!
+//create html template
+html += `<li style= "color: purple">${person}<li>`
+//console.log(index, person);
+})
+console.log(html);
+ul.innerHTML= (html);
 
-}) 
 
     
 
