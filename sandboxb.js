@@ -131,7 +131,7 @@ myFunc (value => {
 people.forEach(logPerson);*/
 
 //get a reference to the 'ul' in the DOM        from 39 mins - Do AGain!
-const ul = document.querySelector('.people');
+/*const ul = document.querySelector('.people');
 const people= ['Bob', 'June', 'Kelly', 'Shona**2', 'Finn', 'Freya'];
 let html= "";
 people.forEach(function(person) {         //create callback method
@@ -141,7 +141,7 @@ html += `<li style= "color: purple">${person}<li>`
 //console.log(index, person);
 })
 console.log(html);
-ul.innerHTML= (html);
+ul.innerHTML= (html);*/
 
 
     

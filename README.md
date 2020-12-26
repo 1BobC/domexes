@@ -5,3 +5,4 @@ Do exercises on the DOM
 "Complete #2 sandbox.js and #3 sandboxa.js jscript ninja exercises including var versus let/const Create sandboxb.js"
 "sandboxb.js ReDO #4 callback to DOM at 39 mins"
 "Complete #4 in sandbox.js Create sandboxc.js for #5 exercises"
+"Work through #5 to about 20mins in adding object to arrays and using 'this' to retrieve plus   function short hans layout"
