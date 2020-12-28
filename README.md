@@ -6,3 +6,4 @@ Do exercises on the DOM
 "sandboxb.js ReDO #4 callback to DOM at 39 mins"
 "Complete #4 in sandbox.js Create sandboxc.js for #5 exercises"
 "Work through #5 to about 20mins in adding object to arrays and using 'this' to retrieve plus   function short hans layout"
+"Complete #5 in sandboxc.js to Math objects and primitive and reference values" 
